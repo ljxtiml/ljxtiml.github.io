@@ -162,7 +162,7 @@
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/hancheng.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/libv2.json"},
-{"key":"csp_xpath_libv","name":"Libvio(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/libvio.json"},
+{"key":"csp_xpath_libv2","name":"Libvio(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/libvio.json"},
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/cokemv.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/jubaibai.json"},

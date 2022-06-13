@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.libvio.com/",
+  "homeUrl": "https://www.libvio.me/",
   "cateNode": "//ul[contains(@class, 'stui-header__menu')]/li/a[contains(@href, 'type')]",
   "cateName": "/text()",
   "cateId": "/@href",

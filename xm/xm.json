@@ -1,7 +1,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://ljxtiml.github.io/xm/xm.jar",
+//"spider":"https://ljxtiml.github.io/xm/xm.jar",
+"spider":"https://ljxtiml.github.io/xm/xmmw0613.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9sanh0aW1sLmdpdGh1Yi5pby94bS90di9saXZlLnR4dA=="

@@ -33,6 +33,7 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXB/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/kuqimv.json"},
+{"key":"csp_xpath_88看球","name":"88看球(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ljxtiml.github.io/YuanHsing/MeowXP/88kanqiu.json"},
 {"key":"开麦K歌搜人","name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜歌","name":"开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
   

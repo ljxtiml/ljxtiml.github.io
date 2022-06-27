@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://ljxtiml.github.io/baddychen0608/baddychen0627.jar",
+"spider":"https://ljxtiml.github.io/baddychen0608/baddychen0627.jar;md5;7df0e7cedffcef1d3b0f529978a4f15c",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9sanh0aW1sLmdpdGh1Yi5pby9iYWRkeWNoZW4wNjA4L3R2L2xpdmUudHh0"

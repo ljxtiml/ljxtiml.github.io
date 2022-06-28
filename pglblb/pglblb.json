@@ -1,6 +1,15 @@
 {
   "sites": [
     {
+      "key":"csp_Mjxq",
+      "name":"🐞美剧星球(SP)",
+      "type":3,
+      "api":"csp_Mjxq",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key":"csp_BBB",
       "name":"🅱哔哩套餐",
       "type":3,"api":"csp_BBB",

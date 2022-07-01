@@ -108,6 +108,7 @@
       "filterable": 1,
       "ext": "https://ljxtiml.github.io/pglblb/x/mtv"
     },
+    /*
     {
       "key": "csp_LiteApple",
       "name": "苹果🐞",
@@ -117,6 +118,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    */
     {
       "key": "csp_Kuaikan",
       "name": "快看🐞",
